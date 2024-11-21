@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#root-scroller-element {
+  height: 600px;
+  overflow: auto;
+  background-color: wheat;
+  /* scroll-behavior: smooth !important; */
+}
